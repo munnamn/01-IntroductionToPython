@@ -22,7 +22,7 @@
 ###############################################################################
 
 
-print('Hello, World')
+print('Hello')
 print('hi there')
 print('one', 'two', 'buckle my shoe')
 
