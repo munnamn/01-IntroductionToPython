@@ -52,7 +52,7 @@ for k in range (10):
     size = size - 20
 
 ########################################################################
-#DONE:
+#DONE:.
 #   You should have RUN the  m5e_loopy_turtles  module and READ its code.
 #   (Do so now if you have not already done so.)
 #
